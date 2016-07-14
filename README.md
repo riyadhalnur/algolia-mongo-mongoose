@@ -8,7 +8,7 @@ Demo code demonstrating how to index data stored in MongoDB with [Algolia](https
 ### Run  
 Copy and paste your **ApplicationID** and **API Key** from Algolia into the `controllers/search.js` file on line 6.
 
-Then in the terminal, run `node index.js`
+Make sure you are running Mongo either in the background or another tab. Then in the terminal, run `node index.js`.
 
 ### License  
 Licensed under MIT. See [LICENSE](LICENSE) for more information.  
