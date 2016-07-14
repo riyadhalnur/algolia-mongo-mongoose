@@ -1,0 +1,15 @@
+{
+  "name": "algolia-mongo-mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Riyadh Al Nur <riyadhalnur@verticalaxisbd.com> (http://www.verticalaxisbd.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "algoliasearch": "3.17.0",
+    "mongoose": "4.5.4"
+  }
+}
