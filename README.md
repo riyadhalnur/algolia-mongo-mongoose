@@ -1,5 +1,7 @@
 algolia-mongo-mongoose
 =================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/riyadhalnur/algolia-mongo-mongoose.svg)](https://greenkeeper.io/)
 Demo code demonstrating how to index data stored in MongoDB with [Algolia](https://algolia.com).  
 
 ### Installation  
