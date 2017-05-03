@@ -10,9 +10,9 @@
   "author": "Riyadh Al Nur <riyadhalnur@verticalaxisbd.com> (http://www.verticalaxisbd.com/)",
   "license": "MIT",
   "dependencies": {
-    "algoliasearch": "3.17.0",
-    "async": "2.0.0",
-    "mongoose": "4.5.4",
+    "algoliasearch": "3.22.1",
+    "async": "2.4.0",
+    "mongoose": "4.9.7",
     "pow-mongoose-fixtures": "0.3.0"
   },
   "engines": {
